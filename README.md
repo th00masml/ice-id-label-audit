@@ -32,3 +32,13 @@ alone; the manual verdicts in the shipped `*_sample.jsonl` were added afterwards
 (see RESULTS.md, RESULTS2.md). Keep a copy before rerunning.
 
 Data: ICE-ID, CC-BY 4.0. Not redistributed here.
+
+## Use of AI tools
+
+The research questions, the choice of what to test, the decisions at each
+step and the architecture of the code are the author's; the author also wrote
+and refactored code. Claude (Anthropic) was used as a research and coding
+assistant under the author's direction: it wrote and ran analysis code,
+proposed parts of the audit design, and drafted the documentation and the
+note. The author is responsible for the content. Each pre-registration
+protocol was committed before the analysis it governs.
