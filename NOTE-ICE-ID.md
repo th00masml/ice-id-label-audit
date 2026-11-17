@@ -2,7 +2,7 @@
 
 *Draft, 2026-11-17. All analyses are in `audit/` of this repository; each
 audit and analysis protocol was committed before its sample was inspected or
-its methods were scored (commits 73fdd21, d72ee7f, c938383, 73bbddf).*
+its methods were scored (commits dac3b28, a4613e3, 4eafa38, 6ee0cb7).*
 
 ## Abstract
 
